@@ -1,9 +1,5 @@
-.Заголовок{
-   color: #CD5C5C ;
-}
-.Гусь{
-    color: #FF00FF;
-}
-.Хуйня{
-    cursor: none;
-}
+body {
+    background: rgb(73, 70, 255) url("fone.jpg") no-repeat fixed left bottom;
+    color: azure;
+   }
+    
